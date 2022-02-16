@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    internal class Program
+    internal class Class1
     {
-        static void Main(string[] args)
-        {
 
-        }
+
     }
 }
